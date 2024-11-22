@@ -36,7 +36,13 @@
 1. 💻 Master full-stack React Native development.  
 2. 📊 Dive deeper into **Data Science** and its applications.  
 3. 🤖 Explore **AI/ML integration** with apps.  
-4. 🛠️ Build and contribute to **open-source projects**.  
+4. 🛠️ Build and contribute to **open-source projects**.
+
+---
+
+## 🌐 Connect with Me  
+- **LinkedIn** : [Kishan Kayadra](https://www.linkedin.com/in/kishan-kayadra-186557268/)
+- **Email**    : [kayadarak3@gmail.com](mailto:kayadarak3@gmail.com)
 
 ---
 
