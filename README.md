@@ -28,7 +28,7 @@
 - ⚙️ **Backend**: Node.js, Express, MongoDB  
 - 📱 **Mobile**: Android Studio, Kotlin, React Native  
 - 📊 **Data Science**: Python (beginner), Pandas, NumPy  
-- 🛠️ **Other Tools**: Git, Postman, VS Code  
+- 🛠️ **Other Tools**: Git, ThunderClient, VS Code  
 
 ---
 
